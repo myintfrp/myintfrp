@@ -1,5 +1,14 @@
 ## Hi there 👋
 [My Website](https://myintfrp.github.io)
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Site</title>
+</head>
+<body>
+    <h1>Welcome to My Website!</h1>
+</body>
+</html>
 <!--
 **myintfrp/myintfrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
